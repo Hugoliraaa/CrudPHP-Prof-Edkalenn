@@ -32,3 +32,5 @@
 
 
 OBS: GIT PAGES NÃO SUPORTA HOSPEDAGEM EM TIPO.PHP !!!
+
+BAIXAR PROJETO : href="/Hugoliraaa/CrudPHP-Prof-Edkalenn/archive/refs/heads/master.zip"
