@@ -20,7 +20,7 @@
 1. Não devem haver livros com o mesmo nome
 2. A quantidade de páginas e o preço, não podem ser zerados nem negativos
 3. O livro deve ter o valor inicial de inativo, podendo ser alterado posteriormente diretamente por meio da listagem (link ou Ajax) ou edição completa do livro
-4. Na listagem o preço deve ser formatado no padrão brasileiro (R$ 1.050,10).
+4. Na listagem o preço deve ser formatado no padrão brasileiro.
 
 
 ### Detalhes sobre o programa:
