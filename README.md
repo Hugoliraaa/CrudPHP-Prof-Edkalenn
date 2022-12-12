@@ -30,3 +30,5 @@
 3.  diretório "controller" é onde fica fica as funcionalidades do sistema que interragem com o banco de dados
 4.  diretório "model" é onde fica os arquivos de conexão com o banco de dados
 
+
+OBS: GIT PAGES NÃO SUPORTA HOSPEDAGEM EM TIPO.PHP !!!
